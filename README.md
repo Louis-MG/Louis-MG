@@ -1,8 +1,6 @@
 # Hello there !
 
-I am a bioinformatics student in Lyon, France. I got a Bachelor in Biology at the University of Lausanne (UNIL) in 2020. Currently in a interniship at the National 
-Museum of Natural History (MNHN). My role is to developp a script to use MNHN-Tree-Tools to recursively cluster alpha-satellites sequences in a binary way in order to 
-study their evolution and diversity in Old World Monkeys.
+I am a bioinformatics student in Lyon, France. I got a Bachelor in Biology at the University of Lausanne (UNIL) in 2020. Currently in a interniship at LBBE (Laboratoire de Biologie et Biometrie Evolutive). I work on MetaDBGWAS.
 
 # Interests:
 
@@ -14,10 +12,11 @@ Python (OO)
 Javascript/HTML/css
 bash
 R
+Starting with C++
 
 # Repo:
 
-You will find a repo for my work qt the museum, one for the MNHN-Tree-Tools for easier dependencies access; a repo for a bug during my work with BRAKER2 (automated genome annotation tool); a repo for my work on a internet site for biochemical reaction visuals in AR (Augmented Reality).
+You will find a repo for my work at the museum, one for the MNHN-Tree-Tools for easier dependencies access; a repo for a bug during my work with BRAKER2 (automated genome annotation tool); a repo for my work on a internet site for biochemical reaction visuals in AR (Augmented Reality). MetaDBGWAS is the extension of DBGWAS to a metagenomic scale.
 
 <!---
 Louis-MG/Louis-MG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
