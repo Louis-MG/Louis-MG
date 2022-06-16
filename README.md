@@ -1,17 +1,21 @@
 # Hello there !
 
-I am a bioinformatics student in Lyon, France. I got a Bachelor in Biology at the University of Lausanne (UNIL) in 2020. Currently in a interniship at LBBE (Laboratoire de Biologie et Biometrie Evolutive). I work on MetaDBGWAS.
+I am a bioinformatics student in Lyon, France. I got a Bachelor in Biology at the University of Lausanne (UNIL) in 2020. Currently in a interniship at LBBE (Laboratoire de Biologie et Biometrie Evolutive). I work on Metadbgwas.
 
 # Interests:
 
-My main interests in bioinformatics are the treatment of biological data by neural networks. I worked a bit with keras. 
+My main interests in bioinformatics is the development of tools. So far, I developed one in python, on in shell/C++, and a classifier in R.
 
 # Languages:
 
 Python (OO)
+
 Javascript/HTML/css
+
 bash
+
 R
+
 Starting with C++
 
 # Repo:
