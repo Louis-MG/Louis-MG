@@ -1,6 +1,6 @@
 # Hello there !
 
-I am a bioinformatics student in Lyon, France. I got a Bachelor in Biology at the University of Lausanne (UNIL) in 2020. Currently in a interniship at LBBE (Laboratoire de Biologie et Biometrie Evolutive). I work on Metadbgwas.
+I am a bioinformatician in Quebec, Canada. I got a Bachelor in Biology at the University of Lausanne (UNIL) in 2020 and a Msc in Bioinformatics fronm the Université Claude-Bernard Lyon 1 (France).
 
 # Interests:
 
@@ -8,9 +8,7 @@ My main interests in bioinformatics is the development of tools. So far, I devel
 
 # Languages:
 
-Python (OO)
-
-Javascript/HTML/css
+Python
 
 bash
 
@@ -20,7 +18,13 @@ Starting with C++
 
 # Repo:
 
-You will find a repo for my work at the museum, one for the MNHN-Tree-Tools for easier dependencies access; a repo for a bug during my work with BRAKER2 (automated genome annotation tool); a repo for my work on a internet site for biochemical reaction visuals in AR (Augmented Reality). MetaDBGWAS is the extension of DBGWAS to a metagenomic scale.
+You will find :
+- for my work at the museum
+- MNHN-Tree-Tools for easier dependencies access; 
+- a bug during my work with BRAKER2 (automated genome annotation tool)
+- my work on a internet site for biochemical reaction visuals in AR (Augmented Reality)
+- MetaDBGWAS, the extension of DBGWAS to a metagenomic scale
+- k-TSP-classifier, a machine-learning script in R to classify exczema types based on gene expression
 
 <!---
 Louis-MG/Louis-MG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
